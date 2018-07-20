@@ -1,0 +1,6 @@
+Open Terminal
+- cd Documents/websites/valeriechou.github.io/
+- git add -A 
+- git commit -m "Add a message"
+- git push 
+
